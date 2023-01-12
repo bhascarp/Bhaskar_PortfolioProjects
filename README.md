@@ -17,6 +17,35 @@ The analysis answered below key questions:
 
 ****************************************************************************************************************************************************************
 
+2. Customer Churn Analysis in PYTHON
+
+Understanding Customer Churn:
+
+Customer churn refers to when a customer ends his or her relationship with a business.
+
+Acquiring new customers can be several times more expensive than selling to existing ones. Understanding what drives churn and why customers are churning is crucial in maintaining high retention rates. Being able to accurately identify those customers at high risk of churning, may help us to create appropriate marketing strategies and retain our customers.
+
+*****************************************************************************************************************************************************************
+
+3. Time-Series Analysis and Forecasting product sales in PYTHON
+
+Time series analysis comprises methods for analyzing time series data in order to extract meaningful statistics and other characteristics of the data. Time series forecasting is the use of a model to predict future values based on previously observed values.
+
+Time series are widely used for non-stationary data, like economic, weather, stock price, and retail sales in this post. We will demonstrate different approaches for forecasting retail sales time series. 
+
+******************************************************************************************************************************************************************
+
+
+
+
+
+
+
+
+
+
+
+
 3. Factors-driving-Home-Prices - Analysis in EXCEL
 
 Overview:
