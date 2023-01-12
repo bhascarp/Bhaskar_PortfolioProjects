@@ -1,4 +1,4 @@
-# Bhaskar_PortfolioProjects
+# Bhaskar_Portfolio_Projects
 
 1. Walmart Data-Retail Analysis in PYTHON
 
