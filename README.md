@@ -35,18 +35,13 @@ Time series are widely used for non-stationary data, like economic, weather, sto
 
 ******************************************************************************************************************************************************************
 
+4. Customer Segmentation using RFM modeling in PYTHON
 
+RFM (Recency, Frequency, Monetary) analysis is a behavior-based approach grouping customers into segments. It groups the customers on the basis of their previous purchase transactions. How recently, how often, and how much did a customer buy. RFM filters customers into various groups for the purpose of better service. It helps managers to identify potential customers to do more profitable business. There is a segment of customer who is the big spender but what if they purchased only once or how recently they purchased? Do they often purchase our product? Also, It helps managers to run an effective promotional campaign for personalized service.
 
+*******************************************************************************************************************************************************************
 
-
-
-
-
-
-
-
-
-3. Factors-driving-Home-Prices - Analysis in EXCEL
+5. Factors-driving-Home-Prices - Analysis in EXCEL
 
 Overview:
 
@@ -54,18 +49,10 @@ This is a project to determine the factors driving house prices, which will help
 
 ****************************************************************************************************************************************************************
 
-1. Lariat Fleet Planning
+6. Lariat Fleet Planning in EXCEL
 
 Project: Lariat Fleet Planning: 
   This Excel model has been built to analyze 2018 rental data of Lariat fleet and draw insights of the past performance. The recommendations were made with strategies to optimize   revenue for 2019. In this interactive model, they can simulate the strategic scenarios by updating the relevant parameters as instructed, to see how the revenue changes. The       deck has been created for a quick presentation of insights and recommendations to the executives of Lariat. This will help them to make better decisions and planning for 2019. 
   
-  **************************************************************************************************************************************************************
- 
- 
-
-*******************************************************************************************************************************************************************
-
-
-
 *******************************************************************************************************************************************************************
 
