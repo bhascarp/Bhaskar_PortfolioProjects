@@ -41,7 +41,7 @@ RFM (Recency, Frequency, Monetary) analysis is a behavior-based approach groupin
 
 *******************************************************************************************************************************************************************
 
-5. Factors-driving-Home-Prices - Analysis in EXCEL
+5. Housing Prices Data Analysis in EXCEL
 
 Overview:
 
